@@ -4,4 +4,4 @@ A simple program written for the purpose of removing unwanted packages that have
 *Edit: Auto-update has now been added, at least for the package list file. Program auto-updates will come in the future!* 
 
 ## Installation
-* Download the zip file titled 'AndroidDebloat.zip' latest release from here, unzip and simply run the .bat file. The program will hang until a device is connected and detected by adb debugging. To enable adb debugging, Google it.
+* Download the zip file titled 'AndroidDebloat.zip' latest release from here, unzip and simply run the .bat file or the "Android Debloat" executable file. The program will hang until a device is connected and detected by adb debugging. To enable adb debugging, Google it.
