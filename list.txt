@@ -207,3 +207,4 @@ com.blackout.spades
 com.vitastudio.spider
 com.tripledot.woodoku
 com.platinumplayer.word.addict
+com.wavecleaner.ssk.lp
